@@ -1,0 +1,13 @@
+[user]
+	name = Keleir
+	email = keleix@gmail.com
+
+[color]
+	ui = true
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
+
+[alias]
+	loger = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
